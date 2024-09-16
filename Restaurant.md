@@ -1,7 +1,8 @@
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    Tablet-->Table layout;
+    Tablet-->Drinks;
+    Tablet-->Appetizers;
+    Tablet-->Steak;
+    Tablet-->Salads;
 ```
