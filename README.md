@@ -1,2 +1,2 @@
 # ESOF-322
-Restaurant reqs for class
+This respository is created for assignments for the ESOF 322 class at Montana Tech.
