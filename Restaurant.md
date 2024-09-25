@@ -1,8 +1,9 @@
 ```mermaid
-graph TD;
-    Tablet-->Table layout;
-    Tablet-->Drinks;
-    Tablet-->Appetizers;
-    Tablet-->Steak;
-    Tablet-->Salads;
+
+graph LR
+    A[Tablet] --> B(Table layout);
+    A --> C[Drinks];
+    A --> D[Appetizers];
+    A --> E[Steak];
+    A --> F[Salads];
 ```
